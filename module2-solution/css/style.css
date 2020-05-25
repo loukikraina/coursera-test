@@ -40,6 +40,12 @@ section.content{
 	width: 95%;
 }
 }
+@media(max-width: 767px){
+#s3,#sec5,#sec4{
+	width: 95%;
+}
+}
+
 p{
 
 	margin: 35px 5px 5px 5px;
