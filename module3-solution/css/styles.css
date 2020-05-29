@@ -230,6 +230,9 @@ background:#f3e5ab
 /********** Extra small devices only **********/
 @media (max-width: 767px) {
   /* Header */
+  #menu1{
+    margin-top: 120px;
+  }
   .navbar-brand {
     padding-top: 10px;
     height: 80px;
