@@ -18,7 +18,7 @@
 	// See Lecture 52, part 2
 	hellospeaker.speak = function (name) {
 	  console.log(speakWord + " " + name);
-	}
+	};
 	window.hellospeaker=hellospeaker;
 })(window);
 // STEP 5: Expose the 'helloSpeaker' object to the global scope. Name it
